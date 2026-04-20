@@ -1,0 +1,23 @@
+pandas==2.0.3
+openpyxl==3.1.2
+python-dotenv==1.0.0 
+fastapi==0.115.0
+uvicorn==0.21.1
+openai==0.27.4
+pydantic==2.11.3
+supabase==1.0.3
+sentence-transformers==3.0.1
+dashscope==1.23.3
+jieba==0.42.1
+paddleocr==3.0.0
+PyMuPDF==1.26.0
+opencv-python==4.6.0.66
+numpy==1.23.5
+#paddlepaddle-gpu==3.0.0 paddlepaddle-cuda=12.6 -c paddle -c nvidia
+huggingface_hub==0.16.4
+#pip install paddlepaddle-gpu==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+# paddlepaddle-gpu通过Dockerfile单独安装
+minio==7.2.5
+requests==2.31.0
+
+
